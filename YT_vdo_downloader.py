@@ -16,3 +16,7 @@ path_to_download_folder = "D:/"
 video.download(path_to_download_folder)
 print("\nDownload complete :)\nYou can find the video at : ",path_to_download_folder)
 
+'''
+Initializing 'link' variable as a list and enclosing the YouTube() method & url object inside a loop,
+mutiple videos can be downloaded back-to-back.
+'''
